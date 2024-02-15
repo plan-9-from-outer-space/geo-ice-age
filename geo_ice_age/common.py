@@ -10,3 +10,8 @@ def ice_age_init():
     """Prints welcome message to the console.
     """
     print("Hello Ice Age!")
+
+def about():
+    """Prints helpful information about the package.
+    """
+    print("Welcome to the geo-ice-age package!")
