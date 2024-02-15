@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/plan-9-from-outer-space/geo-ice-age/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/about.ipynb
     - API Reference:
           - geo_ice_age module: geo_ice_age.md
           - common module: common.md

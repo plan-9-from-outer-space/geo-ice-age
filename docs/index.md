@@ -17,5 +17,5 @@
 
 ## Project Images
 
--   ![](./ice-age-22.jpg)
+-   ![](../images/ice-age-22.jpg)
 
